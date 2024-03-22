@@ -1,0 +1,72 @@
+body {
+    background: wheat;
+    font: 10px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+section {
+    background: hsl(40, 72%, 87%);
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 8px 2px rgb(197, 177, 140);
+    height: 330px;
+    width: 430px;
+}
+#tarefas {
+    display: flex;
+    text-align: center;
+}
+
+#btng {
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+    box-shadow: 3px 4px 3px rgb(197, 177, 140);
+    cursor: pointer;
+    
+}
+#btng:hover {
+    background-color: rgba(255, 255, 255, 0.307);
+    box-shadow: 1px 2px 2px rgb(197, 177, 140);
+}
+#btni {
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+    box-shadow: 3px 4px 3px rgb(197, 177, 140);
+    cursor: pointer; 
+}
+#btni:hover {
+    background-color: rgba(255, 255, 255, 0.307);
+    box-shadow: 1px 2px 2px rgb(197, 177, 140);
+}
+#btnl {
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+    box-shadow: 3px 4px 3px rgb(197, 177, 140);
+    cursor: pointer;
+}
+#btnl:hover {
+    background-color: rgba(255, 255, 255, 0.307);
+    box-shadow: 1px 2px 2px rgb(197, 177, 140);
+}
+#btt{
+    background-color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+    box-shadow: 3px 4px 3px rgb(197, 177, 140);
+    cursor: pointer;
+}
+#btt:hover{
+    background-color: rgba(255, 255, 255, 0.307);
+    box-shadow: 1px 2px 2px rgb(197, 177, 140);
+
+}
